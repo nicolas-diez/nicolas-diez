@@ -15,7 +15,7 @@ Product leader with 10+ years building and scaling high-volume digital platforms
 
 ## 🛠️ Building (in public)
 > Shipping imperfect and iterating — links go live as I publish.
-- **personal-os** — my AI-powered task & priority system *(WIP)*
+- **[personal-os](https://github.com/nicolas-diez/personal-os)** — my AI-powered task & priority system: backlog → goal-driven priorities, daily orientation, self-improving skills.
 - **pm-skills** — reusable skills for PM work: PRDs, metrics reviews, research synthesis *(WIP)*
 - **investing-skills** — ~15 analysis skills with a strict "never invent data" rule, plus **nico-trend-system**, a TradingView / Pine indicator (EMA 21/50, SMA 200, trend signal) *(WIP)*
 - **ai-personal-trainer** — an AI coach that plans workouts and tracks training & health progress *(WIP)*

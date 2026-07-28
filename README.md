@@ -22,7 +22,7 @@ Product leader with 10+ years building and scaling high-volume digital platforms
 
 ## 💼 Experience
 - **Rappi — Head of Product** (35M+ users across 9 LATAM markets) · Pricing & Checkout, and Restaurants Integrations — owned the end-to-end mobile funnel with a focus on **growth, monetization and EBITDA**. Scaled integrated-order share **35% → 60%** and drove **eight-figure annual EBITDA impact** through a demand-shaping approach to pricing.
-- **Despegar — Group Product Manager** · M&A Integrations & B2B platforms — **led a team of 5 PMs** and grew B2B GMV contribution **<2% → 35%** via white-label platforms for banks, retailers and travel companies.
+- **Despegar — Senior Product Manager** · M&A Integrations & B2B platforms — **led a team of 5 PMs** and grew B2B GMV contribution **<2% → 35%** via white-label platforms for banks, retailers and travel companies.
 - **Mercado Libre (Mercado Pago) — UX Product Specialist** · founding team member for in-store QR payments; also shaped wallet, investments, asset-management and unified checkout experiences across mobile/web.
 
 ## 🎓 Teaching

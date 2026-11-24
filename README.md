@@ -15,6 +15,7 @@ The working thesis is that AI-native means **building your own tools**. So inste
 | Repo | What it is |
 |---|---|
 | **[personal-os](https://github.com/nicolas-diez/personal-os)** | An AI-native personal operating system: a router agent that opens every session, four domain copilots that own their territory, a catalog of skills they invoke, and a memory loop that makes it improve with use. |
+| **[investing-copilot](https://github.com/nicolas-diez/investing-copilot)** | Trading alerts for stocks and crypto from your own trading plan: daily-close rules, a morning heads-up, risk management and evals. WhatsApp or Telegram; never trades. |
 | **[pm-skills](https://github.com/nicolas-diez/pm-skills)** | Reusable skills for PM work: PRDs, metrics reviews, research synthesis. Evals-first. |
 | **[decision-canvas](https://github.com/nicolas-diez/decision-canvas)** | Turns an analysis into an interactive decision artifact: compare alternatives, inspect assumptions, test sensitivities before committing. |
 | **[send-to-kindle](https://github.com/nicolas-diez/send-to-kindle)** | Markdown to reflowable EPUB3 to your Kindle, so long deliverables get read away from a screen. |

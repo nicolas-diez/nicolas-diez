@@ -20,6 +20,7 @@ The working thesis is that AI-native means **building your own tools**. So inste
 | **[decision-canvas](https://github.com/nicolas-diez/decision-canvas)** | Turns an analysis into an interactive decision artifact: compare alternatives, inspect assumptions, test sensitivities before committing. |
 | **[send-to-kindle](https://github.com/nicolas-diez/send-to-kindle)** | Markdown to reflowable EPUB3 to your Kindle, so long deliverables get read away from a screen. |
 | **[md-to-podcast](https://github.com/nicolas-diez/md-to-podcast)** | Turns a document into a full two-voice audio walkthrough for the car. Full coverage, not a summary. |
+| **[youtube-transcript](https://github.com/nicolas-diez/youtube-transcript)** | Turns a YouTube link into a Markdown transcript, one paragraph per minute with a link to it, so an agent reads the whole talk before answering. No dependencies. |
 
 The pattern I keep coming back to: **write the evals before the code.** Every skill above ships with a behavior spec, an eval set built from real failures, and an autonomy map that says what the agent does on its own and what it has to ask about. `personal-os` documents the whole architecture in [ARCHITECTURE.md](https://github.com/nicolas-diez/personal-os/blob/main/ARCHITECTURE.md).
 
